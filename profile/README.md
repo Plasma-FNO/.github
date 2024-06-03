@@ -1,7 +1,7 @@
 # Plasma Surrogate Modelling using Fourier Neural Operators
 
-<img width="797" alt="Screenshot 2024-06-03 at 11 59 41" src="https://github.com/Plasma-FNO/.github/assets/28906480/9c82d906-8ee0-4635-baa4-4bb142deb283">
-<img width="797" alt="Screenshot 2024-06-03 at 12 00 47" src="https://github.com/Plasma-FNO/.github/assets/28906480/e8f5347c-b99b-486c-82bb-f75584dd80ea">
+<img width="600" alt="Screenshot 2024-06-03 at 11 59 41" src="https://github.com/Plasma-FNO/.github/assets/28906480/9c82d906-8ee0-4635-baa4-4bb142deb283">
+<img width="600" alt="Screenshot 2024-06-03 at 12 00 47" src="https://github.com/Plasma-FNO/.github/assets/28906480/e8f5347c-b99b-486c-82bb-f75584dd80ea">
 
 This orgnasiation/folder contains several repositories with the code and experiments for the paper ["Plasma Surrogate Modelling using Fourier Neural Operators"](https://iopscience.iop.org/article/10.1088/1741-4326/ad313a) by Vignesh Gopakumar et al., published in Nuclear Fusion, 2024.
 
