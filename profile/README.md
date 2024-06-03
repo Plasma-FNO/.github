@@ -1,4 +1,5 @@
 # Plasma Surrogate Modelling using Fourier Neural Operators
+[rbb_last10_hard-frame_4_error-2.pdf](https://github.com/user-attachments/files/15532762/rbb_last10_hard-frame_4_error-2.pdf)
 
 This orgnasiation/folder contains several repositories with the code and experiments for the paper ["Plasma Surrogate Modelling using Fourier Neural Operators"](https://iopscience.iop.org/article/10.1088/1741-4326/ad313a) by Vignesh Gopakumar et al., published in Nuclear Fusion, 2024.
 
